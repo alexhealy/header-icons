@@ -1,0 +1,26 @@
+html {
+  box-sizing: border-box;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: Merriweather, serif;
+  text-align: center;
+  margin: 0;
+
+}
+
+main {
+  background-color: #d05c2e;
+}
+
+h1 {
+  color: white;
+  font-size: 2rem;
+  background-color: #d05c2e;
+  margin: 0 0 .7rem;
+}
